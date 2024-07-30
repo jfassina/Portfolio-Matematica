@@ -29,5 +29,10 @@ body {
   text-align: center;
 }
 .centerI {
-  padding-left: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.soma{
+  width: 420px;
 }
