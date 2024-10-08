@@ -4,43 +4,61 @@
 }
 
 body {
-  background-color: #363636;
-  color: aliceblue;
-  font-family: "Lexend";
+  background-color: #363636 !important;
+  color: aliceblue !important;
+  font-family: "Lexend" !important;
 }
+
 #unlink {
   text-decoration: underline;
   color: darkgrey;
 }
+
 #img {
   height: 620px;
   width: 480px;
 }
+
 .big {
   font-size: 42px;
 }
+
 .gray {
   color: rgb(170, 170, 170);
 }
+
 .red {
   color: red;
 }
+
 .centerT {
   text-align: center;
 }
+
 .centerI {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
-.soma{
+
+.soma {
   width: 420px;
 }
-.white{
+
+.white {
   color: white;
   text-shadow: 0px 0px 6px white;
 }
-.medium{
+
+.medium {
   font-size: 32px;
 
+}
+
+h1,
+h2,
+h3,
+p {
+  padding-left: 1%;
+  padding-right: 1%;
 }
